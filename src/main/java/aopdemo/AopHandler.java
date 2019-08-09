@@ -1,3 +1,5 @@
+package aopdemo;
+
 import org.aspectj.lang.JoinPoint;
 
 public class AopHandler {
